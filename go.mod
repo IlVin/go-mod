@@ -1,3 +1,3 @@
-module github.com/IlVin/go-mod
+module gomod
 
-go 1.13
+go 1.22.2

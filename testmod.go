@@ -1,9 +1,5 @@
-package testmod
+package gomod
 
-import "fmt"
-
-// Hi returns a friendly greeting
-func Hi(name string) string {
-   return fmt.Sprintf("Hi, %s?!", name)
+func Add(a, b int) int {
+	return a + b
 }
-
