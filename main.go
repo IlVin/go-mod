@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gomod/pkg/testmod"
+
+	"github.com/IlVin/gomod/pkg/testmod"
 )
 
 func main() {
